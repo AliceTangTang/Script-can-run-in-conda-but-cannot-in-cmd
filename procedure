@@ -1,0 +1,9 @@
+1.Open 'edit environment variables for your account'
+2.Creat/Update Varaible = 'Path', Value should be as   C:\Users\[your user name]\Anaconda3\Scripts;C:\Users\[your user name]\Anaconda3;C:\Users\[your user name]\Anaconda3\Library\bin
+3. Open Command Prompt and Check Versions
+4. After 7th step type conda install anaconda-navigator in cmd then press y
+Then should be all set
+
+In addition, If you don’t know where your conda and/or python is, you type the following commands into your anaconda prompt
+where python
+where conda
